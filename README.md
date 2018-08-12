@@ -6,11 +6,12 @@
 
 **Running Server**
 
-`cd backendnotes/
+`cd backendnotes/`
 
-python manage.py migrate`
+`python manage.py migrate`
 
-*python manage.py runserver*
+
+Running server using: **python manage.py runserver**
 
 
 
